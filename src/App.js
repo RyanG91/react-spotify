@@ -6,7 +6,7 @@ class App extends Component {
   state = {
     // name: ''
     filter: '',
-    songs: ['Touch the sky', 'Jesus walks', 'Gold Digger']
+    songs: ['Touch the sky', 'Jesus walks', 'Gold Digger', 'Stronger']
   }
 
   filter = (event) => {
